@@ -1,6 +1,6 @@
-# HDB Flats Price Analysis and Prediction using Machine Learning
+# HDB Housing Flats Price Analysis and Prediction using Machine Learning
 
-What factors affect HDB resale prices?
+The Housing & Development Board (HDB), is a statutory board responsible for the development of public housing in Singapore. In this study, we use data and machine learning models to attempt to answer the question - What factors affect HDB flat resale prices?
 
 The dataset and problem statement were taken from this Kaggle competition: https://www.kaggle.com/competitions/hdbresale
 
